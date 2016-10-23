@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   get 'about' => 'pages#about'
 
-  get 'how-it-works' => 'pages#how'
+  get 'how' => 'pages#how'
 
   get 'privacy' => 'pages#privacy'
 

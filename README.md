@@ -1,3 +1,3 @@
-# BURNDOWN
+# BURNDOWN: Faster Project Production
 
-BURNDOWN is a <i>faster<i> project management process for creatives and marketing teams.
+BURNDOWN: <i>faster<i> project management for creatives and marketing teams.
